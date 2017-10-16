@@ -1,1 +1,2 @@
-*test de contribution sur GtHb*
+*test de contribution sur GitHub*
+Github est un site collaboratif permettant d'ameliorer le travail en groupe et d'avoir un apercu plus detaille sur les projets
